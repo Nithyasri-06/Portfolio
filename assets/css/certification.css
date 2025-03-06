@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding:0;
+    
+}
+h1{
+    font-size: 45px;
+    margin-left: 30px;
+    
+}
+nav{
+    background-color: rgb(84, 9, 65);
+    color: white;
+
+    
+}
+
+ul,li,h1{
+    display: inline;
+
+}
+ul a{
+    color: white
+}
+ul{
+    margin-left:60%;
+    font-size: 20px;
+
+    
+}
+li{
+    margin-left: 10px;
+    cursor: pointer;
+
+
+}
+a:hover{
+    color: rgb(19, 32, 174);
+}
+
+
+.Java{
+    
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+}
+.Java img{
+    width: 700px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px white;
+}
+.comnet1{
+    
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+}
+.comnet1 img{
+    width: 700px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px white;
+}
+.comnet2{
+    
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+}
+.comnet2 img{
+    width: 700px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px white;
+}
