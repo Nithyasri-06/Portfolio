@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.project1{
+    font-size: 20px;
+    position: relative;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+
+.project1 h2{
+    font-size: 35px;
+}
+.project1 a{
+    color: blue;
+}
+.project1 img{
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px white;
+    margin-left: 70px;
+    cursor: pointer;
+}
+a img:hover{
+    transform: scale(1.05);
+}
+.project2{
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+}
+.project2 h2{
+    font-size: 45px;
+}
+.project2 img{
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px white;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.project3{
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+}
+.project3 h2{
+    font-size: 35px;
+}
+.project3 video{
+    width: 700px;
+    height: 500px;
+    margin-left: 70px;
+}
+h1{
+    font-size: 30px;
+    margin-left: 30px;
+}
+nav{
+    background-color: rgb(84, 9, 65);
+    color: white;
+}
+.Content h1{
+    color: rgb(17, 141, 114);
+    margin-left: 5px;
+}
+ul,li,h1{
+    display: inline;
+}
+ul a{
+    color: white
+}
+ul{
+    margin-left:62%;
+    font-size: 18px;
+}
+li{
+    margin-left: 10px;
+    cursor: pointer;
+}
+a:hover{
+    color: rgb(93, 226, 224);
+}
+
